@@ -1,7 +1,5 @@
 # Syllabus
 
-# :warning: *Syllabus below is the old syllabus for 2025. Check back soon for the new 2026 syllabus.*
-
 Python crash course
 ---
 1. <details><summary>Jan 13 T - Intro and python basics 1</summary>
