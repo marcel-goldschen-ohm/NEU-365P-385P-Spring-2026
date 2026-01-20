@@ -267,7 +267,7 @@ Neural networks
 
     </details>
 
-28. <details><summary>Apr 23 R - FINAL EXAM</summary>
+28. <details><summary>Apr 23 R - ENDTERM EXAM</summary>
 
      - Cummulative exam for the entire semester, but will focus more on the topics covered after the midterm exam.
 
