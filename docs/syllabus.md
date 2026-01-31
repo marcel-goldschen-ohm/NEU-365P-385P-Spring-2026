@@ -86,7 +86,7 @@ Machine learning
 ---
 10. <details><summary>Feb 12 R - Linear regression</summary>
 
-     - You will  be able to fit a line to X vs. Y data.
+     - You will be able to fit a line to X vs. Y data.
       - You will be able to fit a (hyper-)plane to {X0, X1, X2, ...} vs. Y data.
       - You will be able to quantify your model's goodness of fit and use the model to make predictions.
       - You will be able to compute confidence intervals for all model parameters and visualize a confidence envelope for your fit.
@@ -98,7 +98,7 @@ Machine learning
 
 11. <details><summary>Feb 17 T - Nonlinear regression</summary>
 
-     - You will be able to use a polynomial or K-nearest neighbors (KNN) model to explain the dependece of a target variable Y on feature variables {X}.
+     - You will be able to use a polynomial or K-nearest neighbors (KNN) model to explain the dependence of a target variable Y on feature variables {X}.
       - You will understand how polynomial regression can be recast as a simple linear regression.
       - You will appreciate that although a KNN model can be used to explain or predict lots of arbitrary nonlinear relations, it is less obvious what the model means.
 
@@ -106,7 +106,7 @@ Machine learning
 
 12. <details><summary>Feb 19 R - EXAM 1</summary>
 
-     - Cummulative exam for all topics covered up to this point.
+     - Cumulative exam for all topics covered up to this point.
 
     </details>
 
@@ -134,7 +134,7 @@ Machine learning
 
      - You will gain a conceptual understanding for a generalized linear model (GLM).
       - You will appreciate why a GLM may be a better choice than a simple linear model for neural spiking data.
-      - You will use a GLM (poisson regression) to predict a neuron's spiking in response to a stimulus.
+      - You will use a GLM (Poisson regression) to predict a neuron's spiking in response to a stimulus.
       - You will see how the choice of noise distribution in a GLM can be used for binary classification.
       - You will use a GLM (logistic regression) to predict a mouse's left vs. right choice from its neural activity.
 
@@ -142,17 +142,17 @@ Machine learning
 
 16. <details><summary>Mar 5 R - Classification</summary>
 
-     - You will understand that classification invovles modeling the categorical grouping of data.
+     - You will understand that classification involves modeling the categorical grouping of data.
       - You will be able to use a logistic regression binary classifier.
-      - You will be able to use your classifer to predict the class to which data belongs.
+      - You will be able to use your classifier to predict the class to which data belongs.
       - You will be able to compute the accuracy of your classifier given data with known class labels.
-      - You will be able to use your classifer to get the probability of each possible class.
+      - You will be able to use your classifier to get the probability of each possible class.
       - You will be able to compute cross validated predictions, accuracy, and probabilities.
       - You will be able to generate a confusion matrix for your classifier.
       - You will be able to generate a ROC curve for your classifier.
       - You will gain a conceptual understanding for classification with a support vector machine (SVM).
       - You will be able to use a SVM classifier to separate data with linear boundaries.
-      - You will appreciated at the conceptual level that SVM can achieve complex nonlinear boundaries by projecting the data into higher dimensions.
+      - You will appreciate at the conceptual level that SVM can achieve complex nonlinear boundaries by projecting the data into higher dimensions.
       - You will be able to use a SVM classifier to separate data with nonlinear boundaries.
 
     </details>
@@ -180,7 +180,7 @@ Machine learning
 
 19. <details><summary>Mar 24 T - EXAM 2</summary>
 
-     - Cummulative exam for all topics covered up to this point, but will focus more on the topics covered after exam 1.
+     - Cumulative exam for all topics covered up to this point, but will focus more on the topics covered after exam 1.
 
     </details>
 
@@ -189,7 +189,7 @@ Machine learning
      - You will apply PCA to EEG time series.
       - You will be able to cluster time series and visualize the clustering in a low number of PCs.
       - You will appreciate how clustering of time series could be beneficial for interpreting experimental data.
-      - You will walk thorugh an example of clustering in reduced dimensions for single cell RNAseq data.
+      - You will walk through an example of clustering in reduced dimensions for single cell RNAseq data.
       - You will appreciate the importance of being able to think critically about your data.
 
     </details>
@@ -199,14 +199,14 @@ Modeling time series
 21. <details><summary>Mar 31 T - Data series and convolution</summary>
 
      - You will appreciate that data points in sequences are correlated (unless pure noise) as opposed to independent random variables.
-     - You will be appreciate how undersampling can introduces aliasing artifacts in a sequence.
+     - You will appreciate how undersampling can introduces aliasing artifacts in a sequence.
      - You will be able to visualize the frequency power spectrum of a 1-D sequence.
      - You will be able to visualize the frequency spectrogram of a 1-D sequence.
      - You will understand why convolution describes a systems output based on its impulse response.
      - You will be able to convolve two 1-D sequences.
      - You will appreciate how convolution can be used to filter a sequence.
      - You will be able to apply lowpass, highpass and bandpass finite impulse response (FIR) filters to a 1-D sequence.
-     - You will be able to properly downsample a 1-D sequence without introducing alisasing artifacts.
+     - You will be able to properly downsample a 1-D sequence without introducing aliasing artifacts.
      - You will be able to convolve two 2-D sequences (e.g., images).
      - You will appreciate that convolution can be used to highlight features in an image.
      - You will appreciate that the joint probability distribution resulting from adding two random variables is the convolution of their individual probability distributions.
@@ -225,7 +225,7 @@ Modeling time series
 23. <details><summary>Apr 7 T - LIF neuron with synaptic input</summary>
 
      - You will be able to simulate stochastic synaptic input to a LIF neuron.
-      - You will appreciate how convulation can be used to integrate synaptic inputs.
+      - You will appreciate how convolution can be used to integrate synaptic inputs.
 
     </details>
 
@@ -267,6 +267,6 @@ Neural networks
 
 28. <details><summary>Apr 23 R - EXAM 3</summary>
 
-     - Cummulative exam for the entire semester, but will focus more on the topics covered after exam 2.
+     - Cumulative exam for the entire semester, but will focus more on the topics covered after exam 2.
 
     </details>
