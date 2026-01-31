@@ -9,7 +9,7 @@
     - [Inclusion](#inclusion)
     - [Academic Integrity](#academic-integrity)
     - [AI Generated Code](#ai-generated-code)
-    - [Accomodations](#accomodations)
+    - [Accommodations](#accommodations)
     - [Contact](#contact)
     - [Office Hours](#office-hours)
     - [Attendance](#attendance)
@@ -33,7 +33,7 @@ It is my opinion that in many cases it is advantageous to first gain a conceptua
 
 This is not to say that the math is unimportant, but rather that your goal in this course will be both a conceptual understanding and practical working ability to utilize the approaches discussed. I leave it to you to gain a more complete mathematical understanding of those approaches you are interested in using outside of this course (*which you should do*). To that end, the working and conceptual understanding you gain here should make this a much easier task.
 
-Finally, *it is impossible to avoid math entirely when discussing data analysis techniques.* I will endevour to keep the math as basic as possible and focus on the concepts.
+Finally, *it is impossible to avoid math entirely when discussing data analysis techniques.* I will endeavor to keep the math as basic as possible and focus on the concepts.
 
 # Course Policies
 ## Prerequisites
@@ -52,25 +52,25 @@ There are no prerequisites for this course. *However, you are expected to be fam
 Along with the entire Department of Neuroscience, this course embraces a notion of an intellectual community that is welcoming and inclusive, and where everyone has ample opportunity to achieve their learning goals. We are especially committed to fostering an environment where you feel heard and respected in your courses.
 
 ## Academic Integrity
-It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, **you must include a note on your assignment indicating with whom you collaborated**. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the assignments is exactly the skillset you are here to obtain.**
+It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, **you must include a note on your assignment indicating with whom you collaborated**. Any academic dishonesty such as copying a fellow student's assignment without collaborating in its completion will be severely punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the assignments is exactly the skillset you are here to obtain.**
 
 ## AI Generated Code
-You are allowed to use prompt-generated code from large language models such as ChatGPT or anything else available to you. However, please read assignment instructions carefully. For example, if you are asked to do some work with a given dataset, and you submit code that does the correct task, but on some other auto-generated dataset, then you are liable to recieve 0 pts. Similarly, if you are asked to use a specific method as described in the course lecture, and you submit code that performs the task using some other method, you are liable to recieve 0 pts.
+You are allowed to use prompt-generated code from large language models such as ChatGPT or anything else available to you. However, please read assignment instructions carefully. For example, if you are asked to do some work with a given dataset, and you submit code that does the correct task, but on some other auto-generated dataset, then you are liable to receive 0 pts. Similarly, if you are asked to use a specific method as described in the course lecture, and you submit code that performs the task using some other method, you are liable to receive 0 pts.
 
-## Accomodations
+## Accommodations
 Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [Services for Students with Disabilities](http://www.utexas.edu/diversity/ddce/ssd/) (471-6259). 
 
 ## Contact
 Please contact myself or the TA via **Canvas**.
 
 ## Office Hours
-Office hours will be in person. Location and times will be posted on **Canvas**. Attendence via Zoom will be by request only.
+Office hours will be in person. Location and times will be posted on **Canvas**. Attendance via Zoom will be by request only.
 
 ## Attendance
 You are expected to attend all classes. **In-class quizzes cannot be made up.**
 
 ## Grading
-Your grade is determined by your cumulative points total from **attendance**, **homework**, **quizes**, **exams**, **extra credit**, or anything else that is worth points in the course. For example, if you scored 70/100 on an exam and 90/100 combined on homework and acrued 10 pts of extra credit, then your grade percentage would be (70+90+10)/(100+100) = 85%.
+Your grade is determined by your cumulative points total from **attendance**, **homework**, **quizzes**, **exams**, **extra credit**, or anything else that is worth points in the course. For example, if you scored 70/100 on an exam and 90/100 combined on homework and accrued 10 pts of extra credit, then your grade percentage would be (70+90+10)/(100+100) = 85%.
 ```
 A: 90-100%
 B: 80-89%
